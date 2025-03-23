@@ -1,0 +1,33 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><style>/* Phone UI */
+.phone {
+  border: 2px solid #333;
+  width: 300px;
+  margin: 20px;
+  background: #f0f0f0;
+}
+.screen {
+  background: #000;
+  color: #0f0;
+  padding: 15px;
+  font-family: monospace;
+}
+.keypad { margin: 10px; }
+
+/* Buyer Panel */
+.buyer-panel {
+  margin: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+/* Mock Map */
+.map {
+  margin: 20px;
+  padding: 15px;
+}
+#map {
+  background: url('mock-map.png') no-repeat; /* Add a static map image */
+  height: 200px;
+  background-size: cover;
+}
+#farmerTable { width: 100%; margin-top: 10px; }</style>
